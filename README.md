@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @serenaf27
-- 👀 I’m interested in coding! I also love painting, cooking, makeup, video games, and fashion
-- 🌱 I’m currently a beginner to coding, starting out my coding journey with python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello I like to make things
 
 <!---
 serenaf27/serenaf27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
